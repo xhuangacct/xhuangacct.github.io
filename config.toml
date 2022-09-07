@@ -1,0 +1,4 @@
+baseURL = 'https://xhuangacct.github.io/'
+languageCode = 'en-us'
+title = 'Xianglin Huang'
+theme = 'hugo-book'
