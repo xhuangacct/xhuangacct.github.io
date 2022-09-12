@@ -1,7 +1,41 @@
 ---
 title: "How I learned to build my site"
-date: 2022-09-07T00:02:11-04:00
-# bookComments: false
-# bookSearchExclude: false
+date: 2022-09-07 09:38:00
+tags: 
+    -test
+categories:
+    -tech
+keywords:
+    -jumpstart
+    -anecdote
+
 ---
-First, I tried to follow some instructions written in Chinese. I thought it would be easier for me to understand and follow the steps. Unfortunately, those instructions were written two years ago. Some parts of the instructions are outdated by now. I failed to get the same outcomes as described in aresult. So I searched for more instructions from different bloggers and compared them with each other. Finally, I figured out that I was faced with an implicit problem of the SSH key settings on my github account. I dealt with it with help from some YouTube videos. By the way, watching YouTube English videos is really the most productive learning method for me. After that, everything became easy and apparent. I located a professional YouTube channel which excellently demonstrated the whole process of building a gitpage personal website in 10 minutes.
+
+`Jumpstart`
+
+# Key takeaways:
+
+### set github account with shh keys
+Make sure git push can be successfully excuted through command line.
+
+### create local directory
+Rather than "mkdir", "git clone" an empty repository to make a new directory which has the same name.
+
+
+
+### Thinking
+```
+* Question 1: How to set my github account so that 
+    - Answer: SSH key.
+
+* Question 2: How to set a local directory so that it can easily connect a github repository. 
+    - Answer: Create an empty repository named "mygithubaccount.github.io" and clone it to local directory through "git clone".
+
+* Question 3: How to generate a directory for my website with Hugo. 
+    - Answer: With "hugo new site blog", I generated a file folder named "blog" inside the local "mygithubaccount.git
+```
+
+    - First, I tried to follow some instructions written in Chinese.
+
+
+
