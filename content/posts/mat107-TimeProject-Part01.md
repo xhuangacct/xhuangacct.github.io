@@ -51,7 +51,7 @@ set the Class Width as a whole number 17
 ***STEP 3: Histogram***
 
 Construct a histogram for your data set. Be sure to label the axes appropriately. Describe your histogram. 
-{{< figure src="/images/histogram.png">}}
+<img src="/static/images/histogram.png">
 
 ***STEP 4: More Descriptive Statistics***                   
 ```
@@ -76,8 +76,7 @@ C. Find the 5-number summary, and the IQR for your sample data[^1].
 
 <br>
 D. Sketch a box plot, including the proper scale for the range of data. 
-{{< figure src="/images/boxplot.png">}}
-
+<img src="/static/images/boxplot.png">
 E. Identify extreme values in your data set using the outlier formulas. If you have no outliers, support that
  conclusion mathematically. 
 ```
@@ -103,13 +102,13 @@ A. State your average and calculate your standard deviation. Show work below.
 x = 32.7      S =  23.5
 Calculated as :
   ƩX = x1 + x2 + … + x30 = 981
-  ƩX2 = x12 + x22 + … + x302 = 48057 
+  ƩX^2 = x1^2 + x2^2 + … + x30^2 = 48057 
   x  = ƩX / n = 981 / 30 =  32.7
-  s2 = ( n*ƩX2 - (ƩX)2 ) / ( n*(n-1) ) = (30 * 48057 - 9812) / (30 * 29) = 479349 / 870 = 550.98
+  s2 = ( n*ƩX^2 - (ƩX)^2 ) / ( n*(n-1) ) = (30 * 48057 - 9812) / (30 * 29) = 479349 / 870 = 550.98
   s = 550.98 = 23.5
 ```
 B. Label a normal curve for your data with mean and 3 standard deviations. 
-{{< figure src="/images/normalcurve.png">}}
+<img src="/static/images/normalcurve.png">
 <center>-37.8&nbsp;&nbsp;&nbsp;&nbsp;-14.3&nbsp;&nbsp;&nbsp; &nbsp;9.2 &nbsp;&nbsp;&nbsp;&nbsp; 32.7&nbsp;&nbsp;&nbsp;&nbsp;56.2&nbsp;&nbsp;&nbsp;&nbsp;79.7&nbsp;&nbsp;&nbsp;&nbsp;103.2</center>
 C. According to the Empirical Rule, between which two number of minutes would 95% of your data lie?
 
@@ -127,6 +126,7 @@ z(9.2) = (9.2 -32.7)/23.5 = -1
 
 F. Ask a couple of classmates about their mean & standard deviation. Briefly, discuss any comparisons and conclusions you have come to as a result of this project.   (online-only class students can discuss with friends and/or relatives about how often they are distracted from getting work done.) 
 <center><strong>Uninterrupted Study Time</strong></center>
-{{< figure src="/images/boxplot2.png">}}
+<img src="/static/images/boxplot2.png">
 
 *&nbsp;&nbsp;Both my husband and I think that the frequency distribution graph of my number of minutes spent on homework is right-skewed. The median (27 minutes) is less than the mean (32.7 minutes). I think the median is better to represent the tendency of my study time at home. Mostly, I will be interrupted in 27 minutes when I do my homework. Besides, my husband would prefer to work at his office rather than at home, because there are so many distractions in our house, such as the kid, the snacks, and the chores. I agree with him.*
+
