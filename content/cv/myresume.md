@@ -5,7 +5,7 @@ date: 2022-09-15T12:13:59-04:00
 ---
 
 
-{{<embed-pdf url="./Users/xianglinhuang/Downloads/SSRN-id2343335.pdf">}}
+
 
 XIANGLIN HUANG
 12030 Chase Crossing Circle
