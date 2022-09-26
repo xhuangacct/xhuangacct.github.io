@@ -1,5 +1,5 @@
 ---
-title: "PHI 101 Analysis Paper"
+title: "Paper: Comparison of Aristotle's and Confucius' Doctrines of the Mean"
 font: 
 date: 2022-04-17T14:07:11-04:00
 tag: Writing

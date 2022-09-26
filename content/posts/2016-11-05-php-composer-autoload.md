@@ -14,7 +14,7 @@ composer的autoload可以轻松的实现php的自动加载。在`composer.json`�
 
 ### PSR-4
 
-Under the `psr-4` key you define a mapping from namespaces to paths, relative to the package root. When autoloading a class like `Foo\\Bar\\Baz` a namespace prefix `Foo\\` pointing to a directory `src/` means that the autoloader will look for a file named `src/Bar/Baz.php` and include it if present. Note that as opposed to the older PSR-0 style, the prefix (`Foo\\`) is not present in the file path.
+Under the `psr-4` key `pdfs` you define a mapping from namespaces to paths, relative to the package root. When autoloading a class like `Foo\\Bar\\Baz` a namespace prefix `Foo\\` pointing to a directory `src/` means that the autoloader will look for a file named `src/Bar/Baz.php` and include it if present. Note that as opposed to the older PSR-0 style, the prefix (`Foo\\`) is not present in the file path.
 
 <!-- more -->
 
@@ -67,7 +67,7 @@ The PSR-4 references are all combined, during install/update, into a single key 
 }
 ```
 
-__相关链接__
+**相关链接**
 
 [Example Implementations of PSR-4](http://www.php-fig.org/psr/psr-4/examples/)
 

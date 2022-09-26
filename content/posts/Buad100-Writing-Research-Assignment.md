@@ -1,5 +1,5 @@
 ---
-title: "BUAD 100 Writing/Research Assignment"
+title: "Assignment: How Business Use Information"
 date: 2022-06-14T16:19:24-04:00
 tags: Writing
 

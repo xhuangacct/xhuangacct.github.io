@@ -1,10 +1,10 @@
 ---
-title: "Recall My Previous Jobs"
+title: "My Achievements"
 date: 2022-09-13T16:09:20-04:00
 draft: true
 ---
 
-After graduation from USTC, I worked for 5 years as a middle manager in the Yellow Crane Tower (YCT) Management Office in Wuhan.
+After graduation from University of Science and Technology of China (USTC), I worked for 5 years as a middle manager in the Yellow Crane Tower (YCT) Management Office in Wuhan.
 
  During my time as the Deputy Chief in the Marketing Department，I accomplished several big projects which greatly demonstrate my passion. Being fully deligated, I conceptually designed the New-version of [YCT Offical Website](http://www.cnhhl.com/en/), which was later recognized and highly commented by my superiors and YCT cultural consultants. Through intimately working with my previous colleagues, Photographer Yong Wang and the YCT Tour Guides, I directed and produced a popular serie of YCT Wechat videos:
 

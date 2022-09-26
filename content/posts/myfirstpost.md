@@ -1,5 +1,5 @@
 ---
-title: "How I learned to build my site"
+title: "How I Learned to Build My Site"
 date: 2022-09-07 09:38:00
 tags: 
     -test

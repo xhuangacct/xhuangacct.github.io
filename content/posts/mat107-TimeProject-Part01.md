@@ -1,5 +1,5 @@
 ---
-title: MAT 107 Time Project 
+title: "Statistics Project: How Long Can You Focus on Study at Home"  
 date: 2022-04-09T10:35:40-04:00
 tags: Statistics
 

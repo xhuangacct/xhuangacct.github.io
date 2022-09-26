@@ -1,5 +1,5 @@
 ---
-title: "ACCT 221 Wriiten Assignment"
+title: "Assignment: Reviews on Five Accounting Articles"
 date: 2022-06-22T16:32:35-04:00
 tags: Accounting
 ---
