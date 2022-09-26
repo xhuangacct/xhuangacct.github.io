@@ -95,7 +95,7 @@ weight = 5
   # https://fontawesome.com/icons?d=gallery&s=brands
   [[params.social]]
     name = "github"
-    link = "https://github.com/gohugoio"
+    link = "https://github.com/xhuangacct"
   [[params.social]]
     name = "linkedin"
     link = "https://www.linkedin.com/company/github/"
