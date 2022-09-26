@@ -13,5 +13,5 @@ According to https://academic-accelerator.com/, the top accounting journals incl
 * Accounting Review(ISSN:0001-4826)
 
 You can access the journals through college library. For example: Montgomery College. Find [library homepage](https://library.montgomerycollege.edu/) on the college website. Click "Research" on the navigation ribbon and choose "Databases by Subject" from the drop-down menu. Click on the first option "Accounting" in the list of subjects to land on the [Accounting Databases page](https://libguides.montgomerycollege.edu/accounting-subject). Choose your favorite database from the list. For example: "Business Source Complete".
-After login with your student ID, you are on the search engine page. Use advance search option, type in the issn number of the journal you want to search. Tadah! Here it is. Feel free to align the results through their publish datas.
+After login with your student ID, you are on the search engine page. Use advance search option, type in the issn number of the journal you want to search. Taduh! Here it is. Feel free to align the results through their publish datas.
 Enjoy!
