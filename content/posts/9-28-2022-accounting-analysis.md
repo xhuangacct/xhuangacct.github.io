@@ -4,7 +4,7 @@ date: 2022-09-28T15:02:18-04:00
 
 ---
 ```
-Name: 	Xianglin Huang
+Name: 	    Xianglin Huang
 Course: 	ACCT 221
 Semester: 	Summer II, 2022
 ```
