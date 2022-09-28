@@ -73,90 +73,76 @@ Amazon stock plunged in the second quarter of 2022 since Amazon reported a net l
 
 
 16. Conduct a horizontal analysis on any two items each from the Balance Sheet and the Income Statement. Thus, you will have four items. Comment on your results. (20 points)
-<table>
-<thead>
-<tr>
-<th>AMAZON.COM, INC.</th>
-<th>HORIZONTAL ANALYSIS </th>
-<th> For the years ended December 31, 2021 and 2020  </th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td></td>
-<td rowspan="2">Amount|(in million)</td>
-<td rowspan="2">increase/|(decrease)</td>
-</tr>
-</tbody>
-</table>
+```
+                               AMAZON.COM, INC.
+                             HORIZONTAL ANALYSIS
+               For the years ended December 31, 2021 and 2020
+                           Amount (in million)        increase/(decrease)
+                            2021      2020            change      percentage
+Sales revenue              469,822   386,064          83,758         21.7%
+Operating income           24,879    22,899           1,980           8.6%
 
- ||
-| |||
-| | ||
-| | 2021| 2020| change | percentage|
-|Sales revenue|469,822|386,064|83,758|21.7%|
-|Operating income|24,879|22,899|1,980|8.6%
-(Comment: From 2020 to 2021, Amazon’s sales revenue increased by 21.7% while its operating income increased by 8.6%. This indicates that the company’s operating expenses had increased by a greater percentage than its sales revenue. Looking further into the statement of operations, Amazon spent nearly 50% more money on marketing and fulfillment in 2021 than 2020. Unlike in 2020, the pandemic effect which promotes online shopping was weaker in 2021. This was likely to have caused the increase in Amazon’s marketing expenses and fulfillment costs.)
+Comment: From 2020 to 2021, Amazon’s sales revenue increased by 21.7% while its operating
+income increased by 8.6%. This indicates that the company’s operating expenses had increased 
+by a greater percentage than its sales revenue. Looking further into the statement of 
+operations, Amazon spent nearly 50% more money on marketing and fulfillment in 2021 than 
+2020. Unlike in 2020, the pandemic effect which promotes online shopping was weaker in 2021. 
+This was likely to have caused the increase in Amazon’s marketing expenses and fulfillment 
+costs.
 
+                             2021       2020           change       percentage
+Total assets                420,549    321,195         99,354          30.9%
+Total stockholder’s equity  138,245    93,404          44,841            48%
 
-2021
-2020
-change
-percentage
-Total assets
-420,549
-321,195
-99,354
-30.9%
-Total stockholder’s equity
-138,245
-93,404
-44,841
-48%
-Comment: From 2020 to 2021, Amazon’s total assets increased by 30.9% and total stockholder’s equity increased by 48%. This indicates that Amazon might have sold additional shares of stock. As Amazon’s sales significantly increased after the pandemic, people are more likely to buy its stock.
+Comment: From 2020 to 2021, Amazon’s total assets increased by 30.9% and total stockholder’s
+ equity increased by 48%. This indicates that Amazon might have sold additional shares of 
+ stock. As Amazon’s sales significantly increased after the pandemic, people are more likely 
+ to buy its stock.
+
+```
 
 
-1.  Conduct a vertical analysis on any two items each from the Balance Sheet and Income Statement. That is you will have a total of four items. You cannot count the base account as one of the items. Comment on your results. (20 points)
+
+
+17.  Conduct a vertical analysis on any two items each from the Balance Sheet and Income Statement. That is you will have a total of four items. You cannot count the base account as one of the items. Comment on your results. (20 points)
+```
 AMAZON.COM, INC.
 VERTICAL ANALYSIS
 For the year ended December 31, 2021
+                                   2021 (in million)       Percentage (rounded)
+Sales revenue                          469,822                    100%
+Operating income                        24,879                    5.3%
+Net income                              33,364                    7.1%
 
+Comment: Amazon’s operating income in 2021 weighted 5.3% of its sales revenue and net 
+income weighted 7.1% of sales revenue. The positive percentages suggest Amazon’s good 
+profitability.
 
-2021 (in million)
-Percentage (rounded)
-Sales revenue
-469,822
-100%
-Operating income
-24,879
-5.3%
-Net income
-33,364
-7.1%
-Comment: Amazon’s operating income in 2021 weighted 5.3% of its sales revenue and net income weighted 7.1% of sales revenue. The positive percentages suggest Amazon’s good profitability.
+                                    2021 (in million)       Percentage (rounded)
+Total assets                            420,549                    100%
+Total liabilities                       282,304                   67.1%
+Retained earnings                        85,915                   20.4%
 
-
-2021 (in million)
-Percentage (rounded)
-Total assets
-420,549
-100%
-Total liabilities
-282,304
-67.1%
-Retained earnings
-85,915
-20.4%
-Comment: Amazon’s total liabilities in 2021 weighted 67.1% of total assets. This debt ratio is relatively high. This may indicate that it is difficult for Amazon to borrow money. The retained earnings in 2021 weighted 20.4% of total assets. It means 20.4% of Amazon’s assets was supported by the accumulated earnings from the previous year.
-
+Comment: Amazon’s total liabilities in 2021 weighted 67.1% of total assets. This debt ratio 
+is relatively high. This may indicate that it is difficult for Amazon to borrow money. The 
+retained earnings in 2021 weighted 20.4% of total assets. It means 20.4% of Amazon’s assets 
+was supported by the accumulated earnings from the previous year.
+```
 18. Please include a web link to the Annual report (2pts)
-https://s2.q4cdn.com/299287126/files/doc_financials/2022/ar/Amazon-2021-Annual-Report.pdf
-Works Cited
+    : https://s2.q4cdn.com/299287126/files/doc_financials/2022/ar/Amazon-2021-Annual-Report.pdf
+
+**Works Cited**
+
 Berthiaume, Dan. “Prime Day 2022 breaks records with $11.9 billion in sales.” chainstoreage.com, 14 July. 2022, https://chainstoreage.com/prime-day-2022-breaks-records-119-billion-sales#:~:text=Prime%20Day%202022%20set%20new,of%20products%20than%20ever%20before.
+
 Bowman, Jeremy. “Why Amazon Stock Was Moving Higher Today.” The Motley Fool, 9 Nov. 2021, https://www.fool.com/investing/2021/11/09/why-amazon-stock-was-moving-higher-today/
+
 Iyengar, Rishi. “Amazon Stock Plunges as Growth Slows.” CNN, 29 Apr. 2022, https://www.cnn.com/2022/04/28/tech/amazon-earnings-loss/index.html.
+
 Johnston, Matthew. “How Amazon Makes Money.” Investopedia, 12 Mar. 2022, https://www.investopedia.com/how-amazon-makes-money-4587523#:~:text=Retail%20remains%20Amazon's%20primary%20source,growing%20at%20a%20robust%20pace.
+
 Tenebruso, Joe. “Why Amazon Stock Popped Today.” The Motley Fool, 15 Oct. 2021, https://www.fool.com/investing/2021/10/15/why-amazon-stock-popped-today/
+
 “Prime Day 2022 was the Biggest Prime Day Event Ever.” Amazon.com, Inc. - Press Room, 14 July 2022, https://press.aboutamazon.com/news-releases/news-release-details/prime-day-2022-was-biggest-prime-day-event-ever
 
 
