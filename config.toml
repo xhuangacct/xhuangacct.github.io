@@ -81,10 +81,7 @@ weight = 5
   showAllPostsArchive = false # default
 
   # Home page settings
-  description = "Hello, Welcome! My name is Xianglin Huang.
-  This is the site where I am trying to showcase myself focused on pursuing my Next-level degree.   
-  I received my Bachelor's Degrees in COMMUNICATION and BUSINESS ADMINISTRATION, and my Master's degree on PUBLIC ADMINISTRATION from the University of Science and Technology of China. 
-  I focused on both quantitative and qualitative research methodologies. My interests lie in accounting disclosure, diffusion of innovation, and data analysis."
+  description = "Hello, Welcome to the website where I post about myself focused on pursuing my Next-level degree.   I love studying accounting."
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
