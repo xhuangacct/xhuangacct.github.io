@@ -7,9 +7,9 @@ date: 2022-10-05T14:38:53-04:00
 
 * Question 1:
 
-  - If I could have any job, I would choose to be a writer. This is because I enjoy writing and reading and being able to stay with my family when I work.
-  - First, I enjoy writing. whenever I write about what I'm thinking about or how I feel, I feel peaceful and calm. For me, writing is a kind of therapy of my soul. I would love to tell a story or explain a scene or illustrate a principle. When I'm writing, there is plenty of chance to rewrite the sentences I'm not satisfied with, without being noticed by my readers. That's the best part of writing that I love. I can keep writing until my desired content are fully presented. How fun it will be.
-  - Second, I love reading, too. For a writer, to keep a sharp sense of feeling and thinking is the most important thing. A writer needs to keep reading new stuff in order to stimulate his ability of perceiving, comprehending, and reflecting. Reading is also my favorite "job". I enjor reading fiction and non-fiction books. Moreover, I love to be surrounded by books.
+  - If I could have any job, I would choose to be a writer. This is because I enjoy writing, reading, and being able to stay with my family when I work.
+  - First, I enjoy writing. I love writing about different type of materials, like a story, a news or a principle. Whenever I write, I feel peaceful and calm. Writing is a kind of therapy of my soul. 
+  - Second, I love reading. I enjoy reading books and magzines. Reading is a way that I can keep a sharp sense of feeling of life. Also reading stimulates my intelligence. Reading is also my favorite "job". I enjoy reading fiction and non-fiction books. Moreover, I love to be surrounded by books.
   - Third, as a writer, I don't have to go to a fixed place to work. If my kid needs me, I can work at home. I love my family and certainly I want to spend more time with them. If I were a writer, I would be so excited to snuggle with my kid and think about an excited idea of a new story at the same time.
   - For all the reasons I have stated, I feel that being a writer would be my dream job. I think that it is the perfect match for my skills, interests, and values.
 
