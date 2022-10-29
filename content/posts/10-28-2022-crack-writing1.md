@@ -1,0 +1,17 @@
+---
+title: "10 28 2022 Crack Writing1"
+date: 2022-10-28T16:53:36-04:00
+draft: true
+---
+
+The author begins with the well-known assertion that obesity is on the rise in both human and pet dogs. He then summarizes the cause and one way to address obesity in humans and asserts that the obesity in dogs is the result of the same cause and can be treated in the same way. The author's interest in addressing a serious health problem in pet dogs is laudable, but his argument is based solely on his limited knowledge of obesity in humans, and there is no evidence the same solution will apply to dogs.
+
+First of all, the author begins with the assertion that obesity results when more calories are consumed than are needed. The author, however, does not expand on the idea of a calorie imbalance causing obesity. He transitions directly into a description of a human  diet change that can result in weight loss: one that is higher in fiber and carbohydrates and lower in fat. However, if this arguably healthier diet is not lower in calories and no change is made to body's need for calories, such as an increase in exercise, there is no reason to believe this diet will effectively reduce either a dog's or, for that matter, a human's weight. The author must consider including information about typical calorie requirements for dogs and humans, as well as the calorie value of the suggested diet.
+
+As concerning as the lack of information about calorie content is the author's assumption that the dietary needs of dogs and humans are similar. While the high-fiber, high-carb, low-fat diet approach may be successful in reducing weight in humans, there is no way to know if this diet will be effective, or even healthy for dogs. It may be that dogs require a diet high in protein and fat to maintain their body systems, and that, further, their nutritional needs are far different from those of humans. Relegating a dog to a human diet, high in carbohydrates and fiber may, in this case result in weight loss, but only as an effect of malnutrition, since the dog will not be receiving the food it needs to maintain good health. More information is needed about the specific nutritional needs of dogs before this recommendation can be considered calid or even safe for animals.
+
+In addition, the author appears to assume that the main reason for obesity in dogs is due to the diet which provides more calories than dogs need. The inverse may be true, in that pet dogs may not typically have access to adequate exercise opportunities, in which case, their diets may be appropriate, but they are not expending enoughenergy to maintain good health. The author must include veterinary recommendations for exercise for typical breeds of dogs and information about the amount of exercise dogs typically engage in before this recommendation can be considered valid.
+
+Finally, the author assumes that all dog breeds are identical in terms of nutritional needs and obesity in all breeds can be addressed in the same way. Anyone who has seen a Chihuahua side by side with a Great Dane understand that dog breeds are extremely varied. Smaller breeds may have nutritional needs lesser than much larger dogs, and applying a one-solution-fits-all plan for canine weight loss may result in adverse effects.
+
+The author's recommendation, while well-intended, is not well supported and is based on several potentially flawed assumptions. In order to strenghthen this recommendation the author must provide additional information to support the claim he's made.
